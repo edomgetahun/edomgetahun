@@ -1,35 +1,29 @@
-<h1 align="center">Hi 👋, I'm Edom</h1>
-<h3 align="center">Software Engineering Student | Problem Solver </h3>
----
-###
-I am a Software Engineering student passionate about building real-world applications. I have a strong interest in backend development and full-stack engineering, along with a background in UI/UX design focused on creating clean and user-friendly interfaces. I am also a competitive programmer and problem solver, actively improving my skills through Data Structures and Algorithms practice on LeetCode and training at A2SV.
-
-### 🛠️ Tech Stack
-**Languages:** Python, C++, Java, JavaScript  
-**Frontend:** HTML, CSS, React  
-**Mobile:** React Native  
-**Backend (learning):** Node.js, Express  
-**Tools:** Git, GitHub, VS Code, Figma  
----
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<h1 align="center">Hi, I'm Edom! 👋</h1>
+<h3 align="center">Software Engineering Student | Competitive Programmer | Problem Solver</h3>
 
 ---
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
----
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/edom-getahun"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-</p> 
+I'm a passionate developer focused on backend development and solving challenging problems through code. I'm currently sharpening my skills through Data Structures & Algorithms practice and competitive programming, while also building real-world backend systems.
+
+🔭 **Currently working on:** Backend architecture and problem-solving challenges.
+
+🌱 **Learning:** Advanced Data Structures, Algorithms, and Backend Optimization.
+
+⚡ **Goal:** Becoming a strong backend engineer and competitive programmer.
+
+### 🛠️ Languages & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+Feel free to reach out if you want to collaborate on a project or just want to connect!
+
 ---
