@@ -5,7 +5,7 @@
 
 I'm a passionate developer focused on backend development and solving challenging problems through code. I'm currently sharpening my skills through Data Structures & Algorithms practice and competitive programming, while also building real-world backend systems.
 
-🔭 **Currently working on:**Problem-solving challenges.
+🔭 **Currently working on:**Problem-solving challenges.**
 
 🌱 **Learning:** Advanced Data Structures, Algorithms, and Backend Optimization.
 
