@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Edom! 👋</h1>
-<h3 align="center">Software Engineering Student | Competitive Programmer | Problem Solver</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 ---
 
