@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Edom! 👋</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h2 align="center">Aspiring Software Engineer</h2>
 
 ---
 
-I'm a passionate developer focused on backend development and solving challenging problems through code. I'm currently sharpening my skills through Data Structures & Algorithms practice and competitive programming, while also building real-world backend systems.
-
+I'm a Software Engineering student passionate about web development and web design.
 - **Currently working on: Problem-solving challenges.**
 - **Learning:** Advanced Data Structures, Algorithms, and Backend Optimization.
-- **Goal:** Becoming a strong backend engineer and competitive programmer.
-
+- **Goal:** Becoming a skilled full-stack developer. Currently focused on learning modern web development and building practical projects.
 ### 🛠️ Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
